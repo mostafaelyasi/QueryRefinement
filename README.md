@@ -46,7 +46,9 @@ single word query or multi-word query
 ![image](https://user-images.githubusercontent.com/63575641/140634705-8d0bf48b-9910-4b75-8f44-10cb18166b1d.png)
 
 
-You can find required and more datasets(2gram64k10m.arpa) in below link:
+You can find required and more datasets(2gram64k10m.arpa) in below links:
 
-https://mega.nz/folder/8AsAwAoZ#RXQQa1sCjAYO-xNcMRsfBw
+1. https://mega.nz/folder/8AsAwAoZ#RXQQa1sCjAYO-xNcMRsfBw
+
+1. https://www.keithv.com/software/giga/
 
