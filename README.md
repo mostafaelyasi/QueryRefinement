@@ -1,6 +1,5 @@
 # QueryRefinement
-Query Refinement (a modified impelementation of "A unified and discriminative model for query refinement"
-Guo, Jiafeng, et al. "A unified and discriminative model for query refinement." Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval. 2008.
+A modified impelementation of: 'Guo, Jiafeng, et al. "A unified and discriminative model for query refinement." Proceedings of the 31st annual international ACM SIGIR conference on Research and development in information retrieval. 2008.'
 https://dl.acm.org/doi/abs/10.1145/1390334.1390400)
 
 
