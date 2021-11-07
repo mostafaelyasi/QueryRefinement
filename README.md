@@ -47,7 +47,7 @@ single word query or multi-word query
 
 ### Dataset
 
-You can find required and more datasets(2gram64k10m.arpa) in below links:
+You can find required(2gram64k10m.arpa)  and more datasets in below links:
 
 1. https://mega.nz/folder/8AsAwAoZ#RXQQa1sCjAYO-xNcMRsfBw
 
