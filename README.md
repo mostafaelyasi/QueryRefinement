@@ -41,7 +41,7 @@ single word query or multi-word query
 ![image](https://user-images.githubusercontent.com/63575641/140634663-e746a48a-33f9-4eed-ab3f-4f5437e4366f.png)
 
 
-* Maximum Likelihood Estimation is used in learning and the Viterbi Algorithm in prediction. 
+* Instead of Viterbi algorithm a Greedy algorithm is used in prediction. 
 
 ![image](https://user-images.githubusercontent.com/63575641/140634705-8d0bf48b-9910-4b75-8f44-10cb18166b1d.png)
 
