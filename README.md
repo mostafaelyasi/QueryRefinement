@@ -46,5 +46,7 @@ single word query or multi-word query
 ![image](https://user-images.githubusercontent.com/63575641/140634705-8d0bf48b-9910-4b75-8f44-10cb18166b1d.png)
 
 
+You can find required datasets(2gram64k10m.arpa) in below link:
 
+https://mega.nz/folder/8AsAwAoZ#RXQQa1sCjAYO-xNcMRsfBw
 
